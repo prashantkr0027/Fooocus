@@ -1,0 +1,4 @@
+ "embeddings_downloads": {},
+    "lora_downloads": {
+        "amateurphoto-v6-forcu.safetensors": "https://civitai.com/api/download/models/993999?type=Model&format=SafeTensor"
+    }
