@@ -1,11 +1,11 @@
 {
-    "default_model": "realisticStockPhoto_v20.safetensors",
+    "default_model": "realisticStockPhoto_v30SD15.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
             true,
-            "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors",
+            "amateurphoto-v6-forcu.safetensors",
             0.25
         ],
         [
@@ -44,11 +44,11 @@
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "realisticStockPhoto_v20.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/realisticStockPhoto_v20.safetensors"
+        "realisticStockPhoto_v30SD15.safetensors": "https://civitai.com/api/download/models/524032?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors"
+        "amateurphoto-v6-forcu.safetensors": "https://civitai.com/api/download/models/993999?type=Model&format=SafeTensor"
     },
     "previous_default_models": ["realisticStockPhoto_v10.safetensors"]
 }
